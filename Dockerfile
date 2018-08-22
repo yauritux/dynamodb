@@ -1,6 +1,6 @@
 FROM lwieske/java-8 
 
-MAINTAINER Yauri Attamimi <yauri.attamimi@bhinneka.com>
+MAINTAINER Yauri Attamimi <yauri.attamimi@automate.id>
 
 RUN mkdir /var/dynamodb_wd
 
